@@ -1,0 +1,65 @@
+S.NO	question	
+1Q	implementation of basic gates using gate level modeling	
+2Q	implementation of halfadder using gate level modeling	
+3Q	implementation of full adder uisng half adders	
+4Q	implementation of 4 bit ripple ccarry adder	
+5Q	implementation of half subractor	
+6Q	implementation of full subrarctor using half subractor	
+7Q	implementation of 4 bit adder and subractor control_sig_m=0 ->adder, m=1 subractor	
+8Q	mux 2by1 1 bit using gate level	
+9Q	mux 3 by 1 using 2 by1	
+10Q	implementation of 8by1 mux	always
+11q	Full adder using data flow	assign
+12q	simple not gate.[reason evaluate simulation time ]	gate not(y,a)
+13q	mux 2by1 multi data bit [4,5]	hierarchical
+		
+14q	4 to 2 MSB priority encoder using mux[2bit data wide]	
+15q	8 to 3 priority encoder using muxes [3 bit data wide	
+16q	one bit processor (OBC)	
+17q	counting ones using one bit processor (OBC)	
+		
+18q	M1)counting zero's using counting ones	
+	M2) counting zeros using OBC2	
+	M3) counting0=8-count1's    using subtractor	
+19q	mod 5 couter using sync clock design	
+		
+		
+20q	 1 bit comparator using gates 	
+21q	subtractor 4 bit	
+22,23,24	comparator [2,4,8 ] bit sized inputs using  muxe2x1[3databit]and comp[1,2,4]	
+25	M1 ] comparator 3 bit using comp1 and comp2	
+	M2] comparator using comp2 and comp1	
+26q	1 to 2 demux using gates	
+		
+27q	comparator 8 bit using data flow [same for N bit size]	dataflow
+28q	min and max between 2 [8 bit] numbers	
+29q	min,mid,max for 3 numbers	
+30q	min,midlow,midHigh,max for 4 numbers	
+31q	min,midlow,mid, midHigh,max for 5 numbers	
+32q	switch leve modelling for nand and nor or not exor	switchlevel modelling
+33q	m1] today tomorrow problem with each mon has 30 days	
+	m2] today tomorroe problem eith x  1bit input indicating 30 or  31 day month	
+		
+34q	penta half adder and $stop useage [use run in console to continue simulation]	dataflow
+35q	penta full adder	dataflow
+		
+36q	test1 -> order off assign statements doesn't matter	
+	test2 -> same variable cannot be assign twice	
+	{contention}	
+	XMR -> cross module reference [accessing signals inside dut and in other instances which are inside dut using instance names of the blocks	
+	test3-> IEEE LRM[Language Reference Manual] write -write race	
+	test4 -> %d and %b represent same number but in different number system	
+	test5 -> divide and quotient operator	
+		
+		
+37q	M1] binary to BCD converter for 4 bit input  [use of compiler directive `if def `endif]	
+	M2]binary to BCD converter for 5 bit input	
+38q	binary to octal for 4 bit input	
+39q	BCD to binary conversion two 4 bit input and 7 bit output	
+40q	m1] 4 bit adder XFA	
+	m2]5bit adder	
+		
+41q	m1]multiplier 3 bit	gatesand adders
+	m2]multiplier 4 bit	gatesand adders
+	m3] multiplier 8	gate and dataflow
+42q	comparator with 4 output greater, almost equal,equal,lesser [use of -f and .list file]	
