@@ -1,0 +1,149 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\alisy\Documents\GIT_HUB\Verilog\p32_switchLevel_Gates
+vmy_and
+IMZFT^kENb:kMfY7Iol1cC2
+V7dh8J;Zi^LE7o[7?l>djb2
+Z1 w1701056702
+Z2 8my_and.v
+Z3 Fmy_and.v
+L0 18
+Z4 OV;L;6.3g_p1;37
+r1
+31
+o-O0
+!s85 0
+vmy_exor
+I_0P[BmV19Ee9:<_V>G5OP2
+VzcC?fdK^REBk3NNlzW`nL0
+Z5 w1701056699
+Z6 8my_exor.v
+Z7 Fmy_exor.v
+L0 11
+R4
+r1
+31
+o-O0
+!s85 0
+vmy_nand
+Iih7DXeBzQJCDmD2mRFiaD2
+VONWR?fBN@Q`k]`F;J9[zU0
+R5
+R6
+R7
+L0 1
+R4
+r1
+31
+o-O0
+!s85 0
+vmy_nor
+IhaUk@Y5W;oTjan@mNI99i3
+V_R8o19lIm7Q`QOG[]ESU`3
+Z8 w1701056704
+Z9 8my_or.v
+Z10 Fmy_or.v
+L0 8
+R4
+r1
+!s85 0
+31
+o-O0
+vmy_not
+I7]gEN2H^3FFLhJ3dh>SU91
+V7eKb<okHBX^;I;GVZV=;A3
+R8
+R9
+R10
+L0 1
+R4
+r1
+!s85 0
+31
+o-O0
+vmy_or
+I:M0Y83B?nGj=AYkbMe35o0
+VIRBTe;G]1XCX`SKZWje:93
+R8
+R9
+R10
+L0 18
+R4
+r1
+!s85 0
+31
+o-O0
+vtb
+I7a8KogcfL6:EzSNUo9Q2I2
+VV@Xn<HnSRM[I5c1?BH]3a3
+w1687546613
+R9
+R10
+L0 25
+R4
+r1
+31
+o-O0
+!s85 0
+vtb_and
+Il]PiCKfV`Y`eKnVnWzU<P3
+Vj7ZjZAk`ShcOQNQiG5WM^0
+R1
+R2
+R3
+L0 25
+R4
+r1
+31
+o-O0
+!s85 0
+vtb_exor
+IRVYKJY_z1AK0?WU4KU6ez1
+VWZ?lg@=eo80V6K:4D[Wn<2
+R5
+R6
+R7
+L0 22
+R4
+r1
+31
+o-O0
+!s85 0
+vtb_nand
+IZJBFabOBd4:Bf^8W?o2Je2
+Va5Z0>b?U_K>BX?FbnLLoA0
+w1701056695
+8my_nand.v
+Fmy_nand.v
+L0 11
+R4
+r1
+31
+o-O0
+!s85 0
+vtb_not
+IeQh2cV7^kFRAknGJKJz_T1
+VOL2=8=:NMnh;f7SCNZTTH2
+w1701055516
+8my_not.v
+Fmy_not.v
+L0 8
+R4
+r1
+31
+o-O0
+!s85 0
+vtb_or
+I?jNOeWhe6YKDBRJC[:z4e2
+VMV9QN@]iC3C0^m[]EeV4P2
+R8
+R9
+R10
+L0 25
+R4
+r1
+!s85 0
+31
+o-O0

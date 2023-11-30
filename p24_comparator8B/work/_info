@@ -1,0 +1,89 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\alisy\Documents\GIT_HUB\Verilog\P24_comparator8B
+vcomp
+IRnSnTSm8[RTOo`MO<N3am0
+VVKS8^j:X<lmAoG[eGmUVW0
+w1686437234
+8comparator_1D.v
+Fcomparator_1D.v
+L0 1
+Z1 OV;L;6.3g_p1;37
+r1
+31
+o-O0
+!s85 0
+vcomp2
+IAeDcJ^?A2@H@cQ`K7[=fP2
+V]hbC9?keib3KnRN5XgZ3P2
+w1686438344
+8comparator_2D.v
+Fcomparator_2D.v
+L0 1
+R1
+r1
+31
+o-O0
+!s85 0
+vcomp4
+I@d8Ea`8fSYYVJ5NHlY^0E0
+VgXkYkKDozPGalRWX2ihJB0
+w1686438923
+8comparator_4D.v
+Fcomparator_4D.v
+L0 1
+R1
+r1
+31
+o-O0
+!s85 0
+vcomp8
+Ih7khl8RDjB7?NzQ<CIDSj2
+V`]L;]nGA:UcRS2o=KSg8Y0
+w1686438468
+8comparator_8D.v
+Fcomparator_8D.v
+L0 1
+R1
+r1
+31
+o-O0
+!s85 0
+vmux2to1
+IlE2aigoPMcl<X0HjKF_<k3
+VbO3a<37G90Q7aIX4Sab=J0
+w1690677621
+8mux2to1.v
+Fmux2to1.v
+L0 3
+R1
+r1
+31
+o-O0
+!s85 0
+vmux2x1_3bit
+I1]FZh7WkSLRS1NI@1EU151
+V_XOzB<;[ZhioHdF9SmAac2
+w1685813753
+8mux2to1_3bitD.v
+Fmux2to1_3bitD.v
+L0 1
+R1
+r1
+31
+o-O0
+!s85 0
+vtb
+IInO<CM?l=:JlGFK_zo0631
+VV@Xn<HnSRM[I5c1?BH]3a3
+w1686438564
+8comparator_8D_tb.v
+Fcomparator_8D_tb.v
+L0 1
+R1
+r1
+!s85 0
+31
+o-O0

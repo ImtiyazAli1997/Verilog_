@@ -1,0 +1,50 @@
+# vsim -l not.log work.tb_not 
+# Loading work.tb_not
+# Loading work.my_not
+# a= 0 y=1
+# a= 1 y=0
+# a= 1 y=0
+# a= 1 y=0
+# a= 1 y=0
+# a= 1 y=0
+# a= 1 y=0
+# a= 0 y=1
+# a= 1 y=0
+# a= 1 y=0
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module my_not
+# -- Compiling module tb_not
+# 
+# Top level modules:
+# 	tb_not
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module my_nand
+# -- Compiling module tb_nand
+# 
+# Top level modules:
+# 	tb_nand
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module my_not
+# -- Compiling module my_nand
+# -- Compiling module my_and
+# -- Compiling module tb_and
+# 
+# Top level modules:
+# 	tb_and
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module my_nand
+# -- Compiling module my_exor
+# -- Compiling module tb_exor
+# 
+# Top level modules:
+# 	tb_exor
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module my_not
+# -- Compiling module my_nor
+# -- Compiling module my_or
+# -- Compiling module tb_or
+# 
+# Top level modules:
+# 	tb_or

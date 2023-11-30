@@ -1,0 +1,68 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\alisy\Documents\GIT_HUB\Verilog\p41_multiplier\mul4
+vFA
+IC=gh;DnIbk8P@MdLF`bfW2
+VME5?z2>fBC5oHIoA]=fH?3
+w1684454040
+8FA_G.v
+FFA_G.v
+L0 3
+Z1 OV;L;6.3g_p1;37
+r1
+31
+o-O0
+n@f@a
+!s85 0
+vHA
+IenkRRljWf7k^c<^E4>2b:3
+V^O73V<^DGiS>=faO0JH@=3
+w1684453179
+8HA_G.v
+FHA_G.v
+L0 2
+R1
+r1
+31
+o-O0
+n@h@a
+!s85 0
+vmultiplier_4bit
+Igim4=dM>6I4o5hzkKI?Y^3
+VCVnPdZh_e2m@jGjIm<:0<2
+w1701220528
+8multiplier.v
+Fmultiplier.v
+L0 1
+R1
+r1
+31
+o+define+M1 -O0
+!s85 0
+vtb
+ITFnc0EYb?cjW5V5<=0dgl0
+VV@Xn<HnSRM[I5c1?BH]3a3
+w1701220942
+8mul_tb.v
+Fmul_tb.v
+L0 1
+R1
+r1
+!s85 0
+31
+o+ -O0
+vXFA
+Id>ng1X6NPK3d]Q>n=[zJH1
+V:Z3D9VoUoQIZJm6>Qj2EH2
+w1701218600
+8XFA.v
+FXFA.v
+L0 1
+R1
+r1
+31
+o-O0
+n@x@f@a
+!s85 0

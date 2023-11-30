@@ -1,0 +1,91 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\alisy\Documents\GIT_HUB\Verilog\P18_counting_zeros\M3
+vcount_ones
+IY0[FlM2znVJU4f0goI3Xg0
+Voh3:6B_gCOn?>bkkGS6D82
+w1687618566
+8count_ones.v
+Fcount_ones.v
+L0 3
+Z1 OV;L;6.3g_p1;37
+r1
+31
+o-O0
+!s85 0
+vcount_zeros_m2
+I0ml4:7Ekl2Ga;?CD<5D9L0
+VAn49YVFz1H^Do?Qd>Je2d0
+w1686213074
+8count_zeros.v
+Fcount_zeros.v
+L0 1
+R1
+r1
+31
+o-O0
+!s85 0
+vFA
+IC=gh;DnIbk8P@MdLF`bfW2
+VME5?z2>fBC5oHIoA]=fH?3
+w1684454040
+8FA_G.v
+FFA_G.v
+L0 3
+R1
+r1
+31
+o-O0
+n@f@a
+!s85 0
+vHA
+IenkRRljWf7k^c<^E4>2b:3
+V^O73V<^DGiS>=faO0JH@=3
+w1684453179
+8HA_G.v
+FHA_G.v
+L0 2
+R1
+r1
+31
+o-O0
+n@h@a
+!s85 0
+vrca
+IK<mU;DjHN28`4MfTb9llD2
+VnPRiAjAUBH=4`OA2DHUUI3
+w1684731300
+8rca.v
+Frca.v
+L0 2
+R1
+r1
+31
+o-O0
+!s85 0
+vsub4
+I`E[0L3ma3``KPH[42G2A30
+VgnZYNNc:igEb>D=gF1M]J2
+w1686212646
+8subtractor_4bit.v
+Fsubtractor_4bit.v
+L0 1
+R1
+r1
+31
+o-O0
+!s85 0
+vtb_obp
+IHSa5UNIX^8[BRiQ`Fz9HR0
+V`gM6NNW4K?89B0;UQ6LDQ2
+w1686213533
+8counts_tb.v
+Fcounts_tb.v
+L0 1
+R1
+r1
+!s85 0
+31
+o-O0
