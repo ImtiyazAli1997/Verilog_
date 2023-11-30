@@ -4,7 +4,7 @@ vlib work
 #compilation
 vlog latch_tb.v	+acc
 
-vlog latch.v +acc
+vlog latch1.v +acc
 
 #simulation
 vsim work.tb
