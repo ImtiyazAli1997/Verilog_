@@ -1,0 +1,231 @@
+# vsim -l timer.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.timer
+# failed for seconds at time=             50976005
+# correct sec = 1 but design gives sec = 29
+# ** Note: $finish    : timer_tb.v(108)
+#    Time: 50976055 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at timer_tb.v line 108
+# Simulation Breakpoint: 1
+# Break in Module tb at timer_tb.v line 108
+# MACRO ./run.do PAUSED at line 13
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module timer
+# 
+# Top level modules:
+# 	timer
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# vsim -l timer.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.timer
+# ** Note: $finish    : timer_tb.v(21)
+#    Time: 333684002 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at timer_tb.v line 21
+# Simulation Breakpoint: 1
+# Break in Module tb at timer_tb.v line 21
+# MACRO ./run.do PAUSED at line 13
+add wave \
+{sim:/tb/uut/incr_mon } 
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module timer
+# 
+# Top level modules:
+# 	timer
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# vsim -l timer.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.timer
+# ** Note: $finish    : timer_tb.v(21)
+#    Time: 333684002 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at timer_tb.v line 21
+# Simulation Breakpoint: 1
+# Break in Module tb at timer_tb.v line 21
+# MACRO ./run.do PAUSED at line 13
+add wave \
+{sim:/tb/ul } 
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module timer
+# 
+# Top level modules:
+# 	timer
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# ** Error: timer_tb.v(92): near "*": syntax error, unexpected '*'
+# ** Error: C:/altera/81/modelsim_ae/win32aloem/vlog failed.
+# Error in macro ./run.do line 6
+# C:/altera/81/modelsim_ae/win32aloem/vlog failed.
+#     while executing
+# "vlog -sv timer_tb.v +acc"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module timer
+# 
+# Top level modules:
+# 	timer
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# vsim -l timer.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.timer
+# failed for seconds at time=            315360005
+# correct sec = 60 but design gives sec = 0
+# failed for minutes at time=            315360005
+# correct min = 60 but design gives min = 0
+# failed for seconds at time=            315360005
+# correct sec = 24 but design gives sec = 0
+# failed for seconds at time=            315360005
+# correct sec = 32 but design gives sec = 1
+# ** Note: $finish    : timer_tb.v(59)
+#    Time: 315360055 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at timer_tb.v line 59
+# Simulation Breakpoint: 1
+# Break in Module tb at timer_tb.v line 59
+# MACRO ./run.do PAUSED at line 13
+write format wave -window .main_pane.mdi.interior.cs.vm.paneset.cli_0.wf.clip.cs.pw.wf C:/Users/alisy/Documents/GIT_HUB/Verilog_unpublished/p57_timer/wave.do
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module timer
+# 
+# Top level modules:
+# 	timer
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# ** Error: timer_tb.v(19): (vlog-2110) Illegal reference to net "leap".
+# ** Error: C:/altera/81/modelsim_ae/win32aloem/vlog failed.
+# Error in macro ./run.do line 6
+# C:/altera/81/modelsim_ae/win32aloem/vlog failed.
+#     while executing
+# "vlog -sv timer_tb.v +acc"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module timer
+# 
+# Top level modules:
+# 	timer
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# vsim -l timer.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.timer
+# failed for seconds at time=            315360015
+# correct sec = 0 but design gives sec = 1
+# ** Note: $finish    : timer_tb.v(61)
+#    Time: 315360065 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at timer_tb.v line 61
+# Simulation Breakpoint: 1
+# Break in Module tb at timer_tb.v line 61
+# MACRO ./run.do PAUSED at line 13
+quit -sim
+cd ../p58_watch 
+do run.do 
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# ** Error: watch.v(49): near "rst": syntax error, unexpected "IDENTIFIER", expecting "or" or ')' or ','
+# ** Error: watch.v(55): 'SECONDS' already exists; must not be redefined as assertion label
+# ** Error: watch.v(55): near "case": syntax error, unexpected "case", expecting "assert "
+# ** Error: watch.v(57): 'dec' already exists; must not be redefined as assertion label
+# ** Error: watch.v(57): near "sec": syntax error, unexpected "IDENTIFIER", expecting "assert "
+# ** Error: watch.v(61): 'HOURS' already exists; must not be redefined as assertion label
+# ** Error: watch.v(61): near "sec": syntax error, unexpected "IDENTIFIER", expecting "assert "
+# ** Error: watch.v(71): 'SECONDS' already exists; must not be redefined as assertion label
+# ** Error: watch.v(71): near "mins": syntax error, unexpected "IDENTIFIER", expecting "assert "
+# ** Error: watch.v(73): 'MINUTES' already exists; must not be redefined as assertion label
+# ** Error: watch.v(73): near "case": syntax error, unexpected "case", expecting "assert "
+# ** Error: watch.v(75): 'dec' already exists; must not be redefined as assertion label
+# ** Error: watch.v(75): near "mins": syntax error, unexpected "IDENTIFIER", expecting "assert "
+# ** Error: watch.v(87): 'SECONDS' already exists; must not be redefined as assertion label
+# ** Error: watch.v(87): near "hrs": syntax error, unexpected "IDENTIFIER", expecting "assert "
+# ** Error: watch.v(88): 'MINUTES' already exists; must not be redefined as assertion label
+# ** Error: watch.v(88): near "hrs": syntax error, unexpected "IDENTIFIER", expecting "assert "
+# ** Error: watch.v(90): 'HOURS' already exists; must not be redefined as assertion label
+# ** Error: watch.v(90): near "case": syntax error, unexpected "case", expecting "assert "
+# ** Error: watch.v(92): 'dec' already exists; must not be redefined as assertion label
+# ** Error: watch.v(92): near "hrs": syntax error, unexpected "IDENTIFIER", expecting "assert "
+# ** Error: C:/altera/81/modelsim_ae/win32aloem/vlog failed.
+# Error in macro ./run.do line 5
+# C:/altera/81/modelsim_ae/win32aloem/vlog failed.
+#     while executing
+# "vlog -sv watch.v +acc"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# ** Error: watch.v(13): Undefined variable: min.
+# ** Error: watch.v(108): near "<": syntax error, unexpected '<'
+# ** Error: C:/altera/81/modelsim_ae/win32aloem/vlog failed.
+# Error in macro ./run.do line 5
+# C:/altera/81/modelsim_ae/win32aloem/vlog failed.
+#     while executing
+# "vlog -sv watch.v +acc"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# ** Error: watch.v(18): near ";": syntax error, unexpected ';'
+# ** Error: watch.v(108): near "<": syntax error, unexpected '<'
+# ** Error: C:/altera/81/modelsim_ae/win32aloem/vlog failed.
+# Error in macro ./run.do line 5
+# C:/altera/81/modelsim_ae/win32aloem/vlog failed.
+#     while executing
+# "vlog -sv watch.v +acc"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# ** Error: watch_tb.v(30): Cannot open `include file "testcase5.txt".
+# ** Error: watch_tb.v(43): Cannot open `include file "tasks.txt".
+# ** Error: C:/altera/81/modelsim_ae/win32aloem/vlog failed.
+# Error in macro ./run.do line 6
+# C:/altera/81/modelsim_ae/win32aloem/vlog failed.
+#     while executing
+# "vlog -sv watch_tb.v +acc"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb

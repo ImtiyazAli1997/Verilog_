@@ -1,0 +1,681 @@
+# vsim -l watch.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.watch
+# ** Warning: (vsim-3015) watch_tb.v(8): [PCDPC] - Port size (6 or 6) does not match connection size (1) for port 'mins'.
+#         Region: /tb/uut
+# ** Note: $finish    : watch_tb.v(21)
+#    Time: 202 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at watch_tb.v line 21
+# Simulation Breakpoint: 1
+# Break in Module tb at watch_tb.v line 21
+# MACRO ./run.do PAUSED at line 13
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# vsim -l watch.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.watch
+# ** Note: $finish    : watch_tb.v(21)
+#    Time: 202 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at watch_tb.v line 21
+# Simulation Breakpoint: 1
+# Break in Module tb at watch_tb.v line 21
+# MACRO ./run.do PAUSED at line 13
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# vsim -l watch.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.watch
+# ** Note: $finish    : watch_tb.v(21)
+#    Time: 202 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at watch_tb.v line 21
+# Simulation Breakpoint: 1
+# Break in Module tb at watch_tb.v line 21
+# MACRO ./run.do PAUSED at line 13
+write format wave -window .main_pane.mdi.interior.cs.vm.paneset.cli_0.wf.clip.cs.pw.wf C:/Users/alisy/Documents/GIT_HUB/Verilog_unpublished/p58_watch/wave.do
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# vsim -l watch.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.watch
+# ** Note: $finish    : watch_tb.v(21)
+#    Time: 900002 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at watch_tb.v line 21
+# Simulation Breakpoint: 1
+# Break in Module tb at watch_tb.v line 21
+# MACRO ./run.do PAUSED at line 13
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# vsim -l watch.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.watch
+# ** Note: $finish    : watch_tb.v(21)
+#    Time: 900002 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at watch_tb.v line 21
+# Simulation Breakpoint: 1
+# Break in Module tb at watch_tb.v line 21
+# MACRO ./run.do PAUSED at line 13
+write format wave -window .main_pane.mdi.interior.cs.vm.paneset.cli_0.wf.clip.cs.pw.wf C:/Users/alisy/Documents/GIT_HUB/Verilog_unpublished/p58_watch/wave.do
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# vsim -l watch.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.watch
+# ** Note: $finish    : testcase1.v(14)
+#    Time: 900002 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at testcase1.v line 14
+# Simulation Breakpoint: 1
+# Break in Module tb at testcase1.v line 14
+# MACRO ./run.do PAUSED at line 13
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# vsim -l watch.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.watch
+# ** Note: $finish    : watch_tb.v(29)
+#    Time: 5401070 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at watch_tb.v line 29
+# Simulation Breakpoint: 1
+# Break in Module tb at watch_tb.v line 29
+# MACRO ./run.do PAUSED at line 13
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# vsim -l watch.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.watch
+# ** Note: $finish    : watch_tb.v(30)
+#    Time: 5402070 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at watch_tb.v line 30
+# Simulation Breakpoint: 1
+# Break in Module tb at watch_tb.v line 30
+# MACRO ./run.do PAUSED at line 13
+pwd
+# C:/Users/alisy/Documents/GIT_HUB/Verilog_unpublished/p58_watch
+do run.do 
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# vsim -l watch.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.watch
+# ** Note: $finish    : watch_tb.v(30)
+#    Time: 3060 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at watch_tb.v line 30
+# Simulation Breakpoint: 1
+# Break in Module tb at watch_tb.v line 30
+# MACRO ./run.do PAUSED at line 13
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# vsim -l watch.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.watch
+# ** Note: $finish    : watch_tb.v(30)
+#    Time: 3060 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at watch_tb.v line 30
+# Simulation Breakpoint: 1
+# Break in Module tb at watch_tb.v line 30
+# MACRO ./run.do PAUSED at line 13
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# ** Error: watch_tb.v(11): Cannot open `include file "testcase2.txt".
+# ** Error: C:/altera/81/modelsim_ae/win32aloem/vlog failed.
+# Error in macro ./run.do line 6
+# C:/altera/81/modelsim_ae/win32aloem/vlog failed.
+#     while executing
+# "vlog -sv watch_tb.v +acc"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# vsim -l watch.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.watch
+# ** Note: $finish    : testcase2.v(21)
+#    Time: 11070 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at testcase2.v line 21
+# Simulation Breakpoint: 1
+# Break in Module tb at testcase2.v line 21
+# MACRO ./run.do PAUSED at line 13
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# vsim -l watch.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.watch
+# ** Note: $finish    : testcase2.v(21)
+#    Time: 11070 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at testcase2.v line 21
+# Simulation Breakpoint: 1
+# Break in Module tb at testcase2.v line 21
+# MACRO ./run.do PAUSED at line 13
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# ** Error: testcase2.v(18): near "@": syntax error, unexpected '@'
+# ** Error: C:/altera/81/modelsim_ae/win32aloem/vlog failed.
+# Error in macro ./run.do line 6
+# C:/altera/81/modelsim_ae/win32aloem/vlog failed.
+#     while executing
+# "vlog -sv watch_tb.v +acc"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# vsim -l watch.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.watch
+# ** Note: $finish    : testcase2.v(21)
+#    Time: 11450 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at testcase2.v line 21
+# Simulation Breakpoint: 1
+# Break in Module tb at testcase2.v line 21
+# MACRO ./run.do PAUSED at line 13
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# vsim -l watch.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.watch
+# ** Note: $finish    : testcase1.v(14)
+#    Time: 900002 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at testcase1.v line 14
+# Simulation Breakpoint: 1
+# Break in Module tb at testcase1.v line 14
+# MACRO ./run.do PAUSED at line 13
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# vsim -l watch.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.watch
+# ** Note: $finish    : testcase1.v(14)
+#    Time: 900002 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at testcase1.v line 14
+# Simulation Breakpoint: 1
+# Break in Module tb at testcase1.v line 14
+# MACRO ./run.do PAUSED at line 13
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# vsim -l watch.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.watch
+# ** Note: $finish    : testcase2.v(23)
+#    Time: 78050 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at testcase2.v line 23
+# Simulation Breakpoint: 1
+# Break in Module tb at testcase2.v line 23
+# MACRO ./run.do PAUSED at line 13
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# ** Error: watch_tb.v(12): near "/": syntax error, unexpected '/'
+# ** Error: tasks.v(13): near "=": syntax error, unexpected '=', expecting "IDENTIFIER" or "TYPE_IDENTIFIER" or '#' or '('
+# ** Error: C:/altera/81/modelsim_ae/win32aloem/vlog failed.
+# Error in macro ./run.do line 6
+# C:/altera/81/modelsim_ae/win32aloem/vlog failed.
+#     while executing
+# "vlog -sv watch_tb.v +acc"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# vsim -l watch.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.watch
+# ** Note: $finish    : testcase3.v(28)
+#    Time: 78220 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at testcase3.v line 28
+# Simulation Breakpoint: 1
+# Break in Module tb at testcase3.v line 28
+# MACRO ./run.do PAUSED at line 13
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# vsim -l watch.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.watch
+# ** Note: $finish    : testcase3.v(28)
+#    Time: 78220 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at testcase3.v line 28
+# Simulation Breakpoint: 1
+# Break in Module tb at testcase3.v line 28
+# MACRO ./run.do PAUSED at line 13
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# vsim -l watch.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.watch
+# ** Note: $finish    : testcase3.v(28)
+#    Time: 78220 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at testcase3.v line 28
+# Simulation Breakpoint: 1
+# Break in Module tb at testcase3.v line 28
+# MACRO ./run.do PAUSED at line 13
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# vsim -l watch.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.watch
+# ** Note: $finish    : watch_tb.v(41)
+#    Time: 79180 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at watch_tb.v line 41
+# Simulation Breakpoint: 1
+# Break in Module tb at watch_tb.v line 41
+# MACRO ./run.do PAUSED at line 13
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# ** Error: tasks.v(42): near "output": syntax error, unexpected "output"
+# ** Error: C:/altera/81/modelsim_ae/win32aloem/vlog failed.
+# Error in macro ./run.do line 6
+# C:/altera/81/modelsim_ae/win32aloem/vlog failed.
+#     while executing
+# "vlog -sv watch_tb.v +acc"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# ** Error: tasks.v(42): The task or function 'pulse' with ref arguments must be automatic.
+# ** Error: C:/altera/81/modelsim_ae/win32aloem/vlog failed.
+# Error in macro ./run.do line 6
+# C:/altera/81/modelsim_ae/win32aloem/vlog failed.
+#     while executing
+# "vlog -sv watch_tb.v +acc"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# ** Error: tasks.v(42): near "automatic": syntax error, unexpected "automatic"
+# ** Error: C:/altera/81/modelsim_ae/win32aloem/vlog failed.
+# Error in macro ./run.do line 6
+# C:/altera/81/modelsim_ae/win32aloem/vlog failed.
+#     while executing
+# "vlog -sv watch_tb.v +acc"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# vsim -l watch.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.watch
+# ** Note: $finish    : testcase4.v(30)
+#    Time: 79180 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at testcase4.v line 30
+# Simulation Breakpoint: 1
+# Break in Module tb at testcase4.v line 30
+# MACRO ./run.do PAUSED at line 13
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# vsim -l watch.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.watch
+# ** Note: $finish    : testcase5.v(29)
+#    Time: 73640 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at testcase5.v line 29
+# Simulation Breakpoint: 1
+# Break in Module tb at testcase5.v line 29
+# MACRO ./run.do PAUSED at line 13
+pwd
+# C:/Users/alisy/Documents/GIT_HUB/Verilog_unpublished/p58_watch
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# vsim -l watch.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.watch
+# ** Note: $finish    : testcase5.v(29)
+#    Time: 73640 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at testcase5.v line 29
+# Simulation Breakpoint: 1
+# Break in Module tb at testcase5.v line 29
+# MACRO ./run.do PAUSED at line 13
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module watch
+# 
+# Top level modules:
+# 	watch
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# vsim -l watch.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.watch
+# ** Note: $finish    : testcase5.v(30)
+#    Time: 73680 ps  Iteration: 0  Instance: /tb
+# Break in Module tb at testcase5.v line 30
+# Simulation Breakpoint: Break in Module tb at testcase5.v line 30
+# MACRO ./run.do PAUSED at line 13
+quit -sim
+cd ../p59_AlphabetPatternDetectors 
+do run
+# Cannot open macro file: run
+pwd
+# C:/Users/alisy/Documents/GIT_HUB/Verilog_unpublished/p59_AlphabetPatternDetectors
+cd HOMEWORK 
+do run.do 
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module home_Work_pattern
+# ** Error: HOMEWORK_PATTERN.v(43): Undefined variable: satte.
+# ** Error: HOMEWORK_PATTERN.v(56): near "<": syntax error, unexpected '<'
+# ** Error: C:/altera/81/modelsim_ae/win32aloem/vlog failed.
+# Error in macro ./run.do line 5
+# C:/altera/81/modelsim_ae/win32aloem/vlog failed.
+#     while executing
+# "vlog -sv HOMEWORK_PATTERN.v +acc"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module home_Work_pattern
+# 
+# Top level modules:
+# 	home_Work_pattern
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# ** Error: HOMEWORK_PATTERN_tb.v(10): near "begin": syntax error, unexpected "begin"
+# ** Error: C:/altera/81/modelsim_ae/win32aloem/vlog failed.
+# Error in macro ./run.do line 6
+# C:/altera/81/modelsim_ae/win32aloem/vlog failed.
+#     while executing
+# "vlog -sv HOMEWORK_PATTERN_tb.v +acc"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module home_Work_pattern
+# 
+# Top level modules:
+# 	home_Work_pattern
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb

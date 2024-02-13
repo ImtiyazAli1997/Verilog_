@@ -1,0 +1,25 @@
+# vsim -l pattern.log work.tb 
+# Loading sv_std.std
+# Loading work.tb
+# Loading work.home_Work_pattern
+# ** Note: $finish    : HOMEWORK_PATTERN_tb.v(26)
+#    Time: 145 ps  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at HOMEWORK_PATTERN_tb.v line 26
+# Simulation Breakpoint: 1
+# Break in Module tb at HOMEWORK_PATTERN_tb.v line 26
+# MACRO ./run.do PAUSED at line 13
+write format wave -window .main_pane.mdi.interior.cs.vm.paneset.cli_0.wf.clip.cs.pw.wf C:/Users/alisy/Documents/GIT_HUB/Verilog_unpublished/p59_AlphabetPatternDetectors/HOMEWORK/wave.do
+quit -sim
+cd ../COLOR_COLOUR 
+do run_color.do 
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module name_patter
+# 
+# Top level modules:
+# 	name_patter
+# Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
